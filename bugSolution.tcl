@@ -1,0 +1,1 @@
+proc correct_return {} { return 1 }
